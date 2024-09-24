@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|c:\\users\\jacob\\source\\repos\\costtracker\\costtrackertask\\hangfire\\hangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|solutionrelative:hangfire\\hangfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|c:\\users\\jacob\\source\\repos\\costtracker\\costtrackertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|c:\\users\\jacob\\source\\repos\\costtracker\\costtrackertask\\models\\historicrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|solutionrelative:models\\historicrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|c:\\users\\jacob\\source\\repos\\costtracker\\costtrackertask\\models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5428D93-3BF0-411B-9953-ADDF1C7F122E}|CosttrackerTask.csproj|solutionrelative:models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hangfire.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Hangfire\\Hangfire.cs",
+              "RelativeDocumentMoniker": "Hangfire\\Hangfire.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Hangfire\\Hangfire.cs",
+              "RelativeToolTip": "Hangfire\\Hangfire.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvwwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:35:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawEwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:29:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Models\\SampleDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SampleDBContext.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Models\\SampleDBContext.cs",
+              "RelativeToolTip": "Models\\SampleDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:51:14.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Historicrate.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Models\\Historicrate.cs",
+              "RelativeDocumentMoniker": "Models\\Historicrate.cs",
+              "ToolTip": "C:\\Users\\Jacob\\source\\repos\\Costtracker\\CosttrackerTask\\Models\\Historicrate.cs",
+              "RelativeToolTip": "Models\\Historicrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:48:15.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
