@@ -1,7 +1,4 @@
-using Company.Project.Services;
-using Microsoft.AspNetCore.DataProtection.KeyManagement;
-using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.AspNetCore.WebUtilities;
+
 using System.Web;
 using System;
 using System.Text.Json.Nodes;
@@ -23,12 +20,12 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddHangfire((sp, config) =>
 {
-    var connectionString = sp.GetRequiredService<IConfiguration>().GetConnectionString("HangfireTest");
+    var connectionString = sp.GetRequiredService<IConfiguration>().GetConnectionString("Hangfire");
     config.UseSqlServerStorage(connectionString);
 });
 builder.Services.AddHangfireServer();
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection2");
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<SampleDBContext>(options => options.UseSqlServer(connectionString));
 
 var app = builder.Build();

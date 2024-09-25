@@ -67,7 +67,7 @@ namespace CosttrackerTask.Hangfire
             HttpClient httpClient2 = new HttpClient();
 
              HttpResponseMessage response2 = await httpClient2.PostAsJsonAsync(
-             "https://localhost:7159/InsertHistoricRate", historicRate);
+             $"{config.GetValue<string>("rootUrl")}InsertHistoricRate", historicRate);
 
             string responseResult2 = response2.Content.ReadAsStringAsync().Result;
         }
